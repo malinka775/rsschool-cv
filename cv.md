@@ -1,9 +1,5 @@
 # Khasanova Alina
 
-## Junior Frontend developer
-
-*******
-*******
 ## Contact information
 
 - Telegram: @khas_alina (preferrable)
@@ -63,7 +59,39 @@ function digitalRoot(n) {
 ```
 ******
 ******
+## Experience
 
+For now I have only learning experience of developing:
+- couple of landing pages, 
+- some interesting features on JavaScript (including a little [aiming game](https://github.com/malinka775/js_features/tree/master/05-aim-game-sources) and [painting board](https://github.com/malinka775/js_features/tree/master/04-board-sources))
+- a [social network pet-project](https://gitlab.com/malinka7751/khasanova_alina_pcs_frontend_21_09_homeworks/-/tree/my_final_project) on React, JavaScript
+- a minor [SPA](https://github.com/malinka775/kts-front-winter-2022) on TypeScript where I used REST API queries
+********
+********
+## Education
+
+* In 2013 I graduated from **Ufa State Aviation Technical University** with **Engineer's degree in "Life safety in the technosphere"** (diploma)
+
+* In 2021 I successfully finished the course on Frontend basics in Innopolis University (diploma)
+
+* In 2022 I learned TypeScript basics on online course by KTS company (sertificate)
+
+* Currently I am an online student of RSSchool Stage 1
+
+* Tutorials and courses on Udemy platform
+
+* Videos on [Frontend Masters](https://frontendmasters.com/)
+
+* Constantly in search of new studying opportunities
+********
+********
+
+## Languages
+
+* Russian (native speaker)
+* English (B2 - according to Epam training center English test)
+
+I have been learning English on Skyeng School for 3 years ( according to their ranking I have Upper-Intermediate level). Now I have lessons on Skype. My speaking is not as fluent as I'd like it to be, but I watch Frontend tutorials, films and videos in English to enrich my vocabulary.
 
 
 
