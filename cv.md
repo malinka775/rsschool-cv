@@ -1,4 +1,7 @@
+<img src="https://github.com/malinka775/private/photo1.jpg" width="200px" border-radius="100%" overflow="hidden"/>
+
 # Khasanova Alina
+
 
 ## Contact information
 
