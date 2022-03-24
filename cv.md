@@ -1,7 +1,6 @@
-<img src="https://github.com/malinka775/private/photo1.jpg" width="200px" border-radius="100%" overflow="hidden"/>
+<img src="./src/photo1.jpg" width="200px" border-radius="100%" overflow="hidden"/>
 
 # Khasanova Alina
-
 
 ## Contact information
 
@@ -13,6 +12,7 @@
 
 ******
 ******
+
 ## Ovewrview
 
 I'm eager to become a Frontend developer with strong skills.
@@ -24,6 +24,7 @@ My previous field is Industrial safety and civil defence where I have been worki
 
 ********
 ********
+
 ## Skills
 
 - Layout:
@@ -42,6 +43,7 @@ My previous field is Industrial safety and civil defence where I have been worki
 
 ******
 ******
+
 ## Code example
 
 Here is my solution for codewars task to write a function which calculates a digital root of number (for example, digital root of 856 is 1:
@@ -60,8 +62,10 @@ function digitalRoot(n) {
   }
 }
 ```
+
 ******
 ******
+
 ## Experience
 
 For now I have only learning experience of developing:
@@ -69,15 +73,17 @@ For now I have only learning experience of developing:
 - some interesting features on JavaScript (including a little [aiming game](https://github.com/malinka775/js_features/tree/master/05-aim-game-sources) and [painting board](https://github.com/malinka775/js_features/tree/master/04-board-sources))
 - a [social network pet-project](https://gitlab.com/malinka7751/khasanova_alina_pcs_frontend_21_09_homeworks/-/tree/my_final_project) on React, JavaScript
 - a minor [SPA](https://github.com/malinka775/kts-front-winter-2022) on TypeScript where I used REST API queries
+
 ********
 ********
+
 ## Education
 
-* In 2013 I graduated from **Ufa State Aviation Technical University** with **Engineer's degree in "Life safety in the technosphere"** (diploma)
+* In 2013 I graduated from Ufa State Aviation Technical University with Engineer's degree in "Life safety in the technosphere" (diploma)
 
-* In 2021 I successfully finished the course on Frontend basics in Innopolis University (diploma)
+* In 2021 I successfully finished the course on Frontend basics in Innopolis University ([diploma](./src/InnopolisDiploma.pdf))
 
-* In 2022 I learned TypeScript basics on online course by KTS company (sertificate)
+* In 2022 I learned TypeScript basics on online course by KTS company ([sertificate](./src/KTSsertificate.pdf))
 
 * Currently I am an online student of RSSchool Stage 1
 
@@ -86,6 +92,7 @@ For now I have only learning experience of developing:
 * Videos on [Frontend Masters](https://frontendmasters.com/)
 
 * Constantly in search of new studying opportunities
+
 ********
 ********
 
