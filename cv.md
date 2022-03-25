@@ -5,7 +5,7 @@
 ## Contact information
 
 - Telegram: @khas_alina (preferrable)
-- E-mail: malinka775@yandex.ru
+- E-mail: contact.khasanova.alina@gmail.com
 - GitHub: [malinka775](https://github.com/malinka775)
 - GitLab: [malinka7751](https://gitlab.com/malinka7751)
 - LinkedIn: [my profile](https://www.linkedin.com/in/alina-khasanova-b9a4061ba/)
