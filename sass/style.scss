@@ -23,7 +23,7 @@ $filling:rgb(255, 253, 228);
 .container {
   margin: auto;
   background-color: black;
-  width: 1200px;
+  max-width: 1200px;
   display: grid;
   grid-template-columns: 1fr 2fr;
 }
@@ -186,8 +186,6 @@ $filling:rgb(255, 253, 228);
   }
   
 }
-
-
           
 .link {
   text-decoration: none;
